@@ -57,17 +57,4 @@ Outside of work, I’ve been serving since 2020 as a **Multimedia Staff** in our
 
 ---
 
-✨ *“Data tells a story, and I love helping people read it.”*  
-
-
-## 📈 Career Analytics  
-
-### Career Timeline  
-![Career Timeline](./images/career_timeline.png)  
-
-### Experience Distribution  
-![Experience Breakdown](./images/experience_distribution.png)  
-
-### Skills Focus  
-![Skills Focus](./images/skills_focus.png)  
-
+✨ *“Data tells a story, and I love helping people read it.”*
