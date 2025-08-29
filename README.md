@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miguel Nadim Ghantous  
+# 👋 Hi, I'm Miguel Ghantous  
 
 🎓 BS in Information Technology graduate | 📊 Aspiring Data Analyst | 💻 Future Web Developer  
 
